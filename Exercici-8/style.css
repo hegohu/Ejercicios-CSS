@@ -1,0 +1,9 @@
+body{
+    background-color: darksalmon;
+}
+h1{
+    color: red;
+}
+p{
+    column-count: 3;
+}

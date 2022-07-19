@@ -1,9 +1,19 @@
-body{
-    background-color: darksalmon;
+body {
+  background-color: darksalmon;
 }
-h1{
-    color: red;
+.titulo {
+  color: red;
 }
-p{
-    column-count: 3;
+.titulo:hover {
+  color: blue;
+}
+p {
+  column-count: 3;
+  column-gap: 40px;
+  column-rule: solid red 2px;
+}
+
+p:hover {
+  color: red;
+  background-color: blue;
 }

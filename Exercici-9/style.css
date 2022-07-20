@@ -1,0 +1,10 @@
+div {
+  height: auto;
+  width: 500px;
+  margin: 20px;
+  padding: 20px;
+  border-top: 5px dotted green;
+  border-left: 8px double ;
+  border-bottom: 5px solid red;
+  border-right: 8px dashed blue;
+}
